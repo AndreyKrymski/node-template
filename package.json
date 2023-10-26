@@ -5,6 +5,7 @@
   "description": "",
   "keywords": [],
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Tests passed\" && exit 0",
